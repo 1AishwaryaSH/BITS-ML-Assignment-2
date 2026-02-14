@@ -1,10 +1,5 @@
 # Wine Quality Classification - ML Assignment 2
 
-**BITS Pilani | Work Integrated Learning Programmes Division | M.Tech (AIML/DSE)**
-Machine Learning | Assignment 2 | Marks: 15 | Deadline: 15-Feb-2026
-
----
-
 ## a. Problem Statement
 
 Predict whether a wine is of High Quality (score >= 6) or Low Quality (score <= 5) based on its physicochemical properties. This is a binary classification problem using 12 features derived from the UCI Wine Quality dataset.
@@ -118,7 +113,7 @@ streamlit run app.py
 ## Deployment
 
 Deployed on Streamlit Community Cloud.
-Live App: [paste Streamlit URL here]
+Live App: https://bits-ml-assignment-2-3dejyhmv2rsffrysrxkfgx.streamlit.app
 
 ---
 
@@ -133,5 +128,3 @@ pandas>=2.2.0
 matplotlib>=3.8.0
 seaborn>=0.13.0
 ```
-
-*Machine Learning Assignment 2 | M.Tech (AIML/DSE) | BITS Pilani WIL*
